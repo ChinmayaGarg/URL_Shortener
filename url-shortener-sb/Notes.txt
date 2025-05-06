@@ -2,3 +2,5 @@ mappedBy v/s @JoinColumn
 https://stackoverflow.com/questions/11938253/jpa-joincolumn-vs-mappedby
 
 --------------------------------------------------------------------------------
+"Auto-configuration" feature in Spring Boot. 
+As we have added the dependency to connect with MySQL in pom.xml. Spring Boot will see the dependency and will auto-configure MySQL in the project i.e. it will create connection with the data source. What we have to do is provide application/project the credentials to connect to the database in application.properties file.
