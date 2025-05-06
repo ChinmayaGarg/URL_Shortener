@@ -1,0 +1,4 @@
+mappedBy v/s @JoinColumn
+https://stackoverflow.com/questions/11938253/jpa-joincolumn-vs-mappedby
+
+--------------------------------------------------------------------------------
