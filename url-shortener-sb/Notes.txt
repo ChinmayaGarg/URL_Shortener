@@ -15,6 +15,7 @@ https://docs.spring.io/spring-boot/docs/1.1.0.M1/reference/html/howto-database-i
 spring.jpa.show-sql=true
 This command shows sql queries in terminal when being executed.
 --------------------------------------------------------------------------------
+UserDetailsImpl class is the class that will bridge the gap between custom users model created by us and Spring Security's user model.
 --------------------------------------------------------------------------------
 --------------------------------------------------------------------------------
 --------------------------------------------------------------------------------
