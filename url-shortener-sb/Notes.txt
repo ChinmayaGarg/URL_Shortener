@@ -16,6 +16,7 @@ spring.jpa.show-sql=true
 This command shows sql queries in terminal when being executed.
 --------------------------------------------------------------------------------
 UserDetailsImpl class is the class that will bridge the gap between custom users model created by us and Spring Security's user model.
+Spring security needs to know against which user is it authenticating. UserDetails that has been implemented by UserDetailsImpl class is the Spring Security class.
 --------------------------------------------------------------------------------
 --------------------------------------------------------------------------------
 --------------------------------------------------------------------------------
